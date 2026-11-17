@@ -1,0 +1,3 @@
+region          = "cn-north-4"
+project_name    = "url-shortener"
+obs_bucket_name = "url-shortener-store"
